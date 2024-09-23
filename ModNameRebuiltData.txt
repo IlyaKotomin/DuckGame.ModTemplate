@@ -1,0 +1,19 @@
+09/23/2024 09:00:12|19
+Type Order
+Microsoft.CodeAnalysis.EmbeddedAttribute
+System.Runtime.CompilerServices.RefSafetyRulesAttribute
+ModName.Debug.TestDrawUpdate
+ModName.Debug.TestDraw
+ModName.Debug.TestUpdate
+ModName.Core.IInjectDrawable
+ModName.Core.IInjectUpdateable
+ModName.Core.ModSetup.ModInitialize
+ModName.Core.ModSetup.ModName
+ModName.Core.Injectors.DrawableSelfInjector
+ModName.Core.Injectors.UpdateableSelfInjector
+ModName.Core.Factories.DrawableFactory
+ModName.Core.Factories.UpdateableFactory
+ModName.Debug.TestDrawUpdate+<>c
+ModName.Debug.TestDraw+<>c
+ModName.Core.Factories.DrawableFactory+<>c
+ModName.Core.Factories.UpdateableFactory+<>c
